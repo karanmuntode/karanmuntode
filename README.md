@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Karan Muntode 👋</h1>
+<h1 align="center">Hi, I'm Karan Muntode</h1>
 <h3 align="center">Software Engineer • Full-Stack Development • Industrial Automation • Data</h3>
 
 <p align="center">
@@ -12,20 +12,20 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a **Software Engineer at AP Corporation**, working on full-stack web development. Previously, I was a **Graduate Apprentice Trainee (GAT)** at **Mahindra & Mahindra** (Igatpuri engine plant), where I built and shipped production software used across multiple plant locations, alongside hands-on work in industrial automation (PLC/HMI/SCADA) and supply chain operations.
 
-- 💼 Currently: Full-stack Software Engineer @ AP Corporation
-- 🎓 B.E. in Electronics & Computer Engineering (Honours in Data Science) — Savitribai Phule Pune University, 2025
-- 🏭 Cross-domain background: full-stack web development **+** industrial automation **+** SCM/inventory systems
-- 🔭 Previously built production document management and material tracking systems at scale
-- 🌱 Exploring AI-powered automation tools and multi-agent LLM pipelines
-- 📍 Based in Pune / Nashik, Maharashtra, India
+-  Currently: Full-stack Software Engineer @ AP Corporation
+-  B.E. in Electronics & Computer Engineering (Honours in Data Science) — Savitribai Phule Pune University, 2025
+-  Cross-domain background: full-stack web development **+** industrial automation **+** SCM/inventory systems
+-  Previously built production document management and material tracking systems at scale
+-  Exploring AI-powered automation tools and multi-agent LLM pipelines
+-  Based in Pune / Nashik, Maharashtra, India
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,flask,react,js,postgres,html,css,git,github,vscode" />
@@ -39,11 +39,11 @@ I'm a **Software Engineer at AP Corporation**, working on full-stack web develop
 
 ---
 
-### 🏗️ Featured Work
+###  Featured Work
 
 > Note: DMS and CASS were built during my time at Mahindra & Mahindra and are internal production systems, not public repos — described here to show scope of ownership.
 
-**📄 Document Management System (DMS v2.0)**
+** Document Management System (DMS v2.0)**
 Production system live across 6 Mahindra plant locations, managing SOPs, PFMEAs, Control Plans, Drawings, and Inspection Reports.
 `Flask` `PostgreSQL` `JWT` `Cloudinary` `Railway` `GitHub Actions`
 - Location-based security architecture with plant-level document isolation
@@ -51,11 +51,11 @@ Production system live across 6 Mahindra plant locations, managing SOPs, PFMEAs,
 - Real-time autocomplete search, Chart.js analytics dashboard
 - Took the system from local prototype to full production deployment
 
-**📦 CASS — Computer Aided Storage System**
+** CASS — Computer Aided Storage System**
 SAP-integrated barcode material tracking system for shop-floor storage locations.
 `SAP Integration` `Barcode Tracking` `Inventory Systems`
 
-**🌊 IoT Emergency Management System**
+** IoT Emergency Management System**
 Real-time flood & disaster alert system sending SMS notifications via weather data triggers.
 `Python` `Flask` `Twilio API` `Weather API` `ML`
 [View Repo →](https://github.com/karanmuntode)
@@ -67,7 +67,7 @@ A React-based news application.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=karanmuntode&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -80,7 +80,7 @@ A React-based news application.
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 I'm actively exploring **Software Engineering**, **Data Engineering**, and **Automation/A&D** roles.
 
@@ -89,4 +89,4 @@ I'm actively exploring **Software Engineering**, **Data Engineering**, and **Aut
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐️ Thanks for stopping by!</i></p>
+<p align="center"><i> Thanks for stopping by!</i></p>
